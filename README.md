@@ -104,4 +104,4 @@ Université Lumière Lyon 2
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+
