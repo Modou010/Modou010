@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a Data Science student at **Université Lumière Lyon 2**, passionate about machine learning, data engineering and transforming data into real-world insights and products.  
+I'm a Data Science student at **Université Lumière Lyon 2**, passionate about machine learning, data engineering and transforming data into real-world insights and products. 
 
 I enjoy:
 ✅ Building ML pipelines  
